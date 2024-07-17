@@ -1,4 +1,4 @@
-import { Button } from "@mui/material";
+import { Button as MUI} from "@mui/material";
 import { Button } from "../components/ui/Button";
 import { User } from "../components/user/User";
 
@@ -13,8 +13,8 @@ export function HomePage() {
   return (
     <div>
       <Button />
-      <Button>MUI Button</Button>
-      <User />
+      <MUI>MUI Button</MUI>
+      <User user={userData}></User>
     </div>
   );
 }
