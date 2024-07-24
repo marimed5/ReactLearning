@@ -1,0 +1,57 @@
+.person {
+  display: inline-flex;
+  flex-direction: column;
+  background-color: rgb(66, 61, 61);
+  height: 200px;
+  width: 300px;
+  margin: 8px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.name {
+  color: white;
+  padding-left: 10px;
+  text-align: left;
+  padding-top: 30px;
+}
+
+.image {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  align-self: center;
+}
+
+.imageText {
+  color: white;
+  font-weight: 500;
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-self: center;
+  /* Align the letter */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.favorite {
+  height: 40px;
+  width: 30px;
+  background-image: url("https://static-00.iconduck.com/assets.00/star-small-icon-2048x2048-gf3cr9wz.png");
+  background-size: 100%;
+  background-color: white;
+  align-self: flex-end;
+  padding-bottom: 30px;
+}
+
+li {
+  list-style-type: none;
+}
+
+#remove {
+  background-color: rgb(66, 61, 61);
+  padding: 1px 7px 2px;
+}
