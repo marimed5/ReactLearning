@@ -1,0 +1,76 @@
+{
+  "nfts": [
+    {
+      "id": "1",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card2.png"
+    },
+    {
+      "id": "2",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card3.png"
+    },
+    {
+      "id": "3",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card4.png"
+    },
+    {
+      "id": "4",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card5.png"
+    },
+    {
+      "id": "5",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card6.png"
+    },
+    {
+      "id": "6",
+      "title": "Pudgy Bear",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card7.png"
+    },
+    {
+      "id": "7",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card8.png"
+    },
+    {
+      "id": "8",
+      "title": "Pudgy Bears",
+      "reference": "Pudgy Bears #189",
+      "author": "QSTN Network",
+      "priceEth": 0.06,
+      "priceUsd": 23.54,
+      "img": "src/assets/card1.svg"
+    }
+  ]
+}
